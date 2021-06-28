@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="09161JEC209173" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-06-28T11:53:39.679595Z" />
+        <name value="Google Pixel 4a" />
+        <target value="Android 12 Preview" />
+        <api value="S" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
