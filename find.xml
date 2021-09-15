@@ -20,5 +20,6 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>build.gradle</mask>
+    <mask>AndroidManifest.xml</mask>
   </component>
 </application>
