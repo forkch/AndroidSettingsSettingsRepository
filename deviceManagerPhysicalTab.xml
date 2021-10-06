@@ -20,10 +20,10 @@
             <value value="09161JEC209173" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-06-28T11:53:39.679595Z" />
+        <lastOnlineTime value="2021-10-06T09:53:26.179112Z" />
         <name value="Google Pixel 4a" />
-        <target value="Android 12 Preview" />
-        <api value="S" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
